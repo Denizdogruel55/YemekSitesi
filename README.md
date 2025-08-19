@@ -15,7 +15,3 @@ Projede **Flexbox** yapısı kullanılmış ve yemekler `justify-content` ile hi
 ```bash
 YemekSitesi/
 │── index.html
-│── css/
-│   └── style.css
-│── img/
-│   └── yemek1.jpg, yemek2.jpg, yemek3.jpg ...
